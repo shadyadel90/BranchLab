@@ -9,7 +9,7 @@ xcuserdata/
 *.hmap
 
 .DS_Store
-
+hint.txt
 
 ## App packaging
 *.ipa
